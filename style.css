@@ -77,3 +77,10 @@ main {
   color: #555;
 }
 
+.contact {
+  margin-top: 10rem;
+  font-size: 0.85rem;
+  color: #555;
+  text-align: right;
+}
+
